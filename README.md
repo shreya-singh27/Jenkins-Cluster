@@ -4,8 +4,8 @@
 
 Create a Jenkins Cluster in Docker Container & Kubernetes Pod
 **Note:** Do **not** use pre-created images.
-✅ Manually install Jenkins in Docker.
-✅ Deploy a multi-agent Jenkins setup using Kubernetes (k3s).
+  Manually install Jenkins in Docker.
+  Deploy a multi-agent Jenkins setup using Kubernetes (k3s).
 
 ---
 
